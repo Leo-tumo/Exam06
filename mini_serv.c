@@ -263,148 +263,22 @@ int main(int argc, char **argv)
 	return 0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*
+**	@brief	
+**	bellow u can see my vim settings for exam
+**	vim ~/.myvimrc
+
+
+**	set number
+**	syntax on
+**	colorscheme elflord
+**	set mouse=r
+**	set autoindent
+**	set showmatch
+**	set tabstop=2
+**	inoremap {<cr> {<cr>}<c-o>O<tab>
+**	inoremap [ []<left>
+**	inoremap ' ''<left>
+**	inoremap " ""<left>
+**	inoremap ( ()<left
+*/
